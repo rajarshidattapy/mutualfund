@@ -1,4 +1,4 @@
-#MutualPal
+# MutualPal
 ---
 A full-stack **fintech analytics platform** for **mutual funds, ETFs, and algorithmic trading strategies**.  
 Built to showcase expertise in **Data Engineering**, **Machine Learning Modeling**, **Quantitative Finance**, and **Real-Time Data Visualization**.
@@ -75,7 +75,6 @@ mutual-fund-etf-analytics/
    ```bash
    git clone https://github.com/your-username/mutual-fund-etf-analytics.git
    cd mutual-fund-etf-analytics
-````
 
 2. **Start Services**
 
