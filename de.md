@@ -1,8 +1,9 @@
 What is asked: Python, SQL, spark, data modelling
 
 1. Big data, Distributed systems -> Spark, Hadoop
+
 System design:
-- How to manage the whole data pipeline/ data flow
+- How to manage the whole data pipeline/ data flow/ ETL
 - Data quality management
 
 2. Hands on Cloud - AWS
